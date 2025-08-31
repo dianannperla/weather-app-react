@@ -45,4 +45,6 @@
  * - scripts: Defines scripts to run commands like start, build, and test
  * - eslintConfig: Configuration for ESLint
  * - browserslist: Specifies which browsers to support in production and development
+ * 
+ * Note: Ensure to update dependencies regularly to avoid security vulnerabilities.
  */
