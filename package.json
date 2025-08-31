@@ -33,3 +33,16 @@
     ]
   }
 }
+
+/*
+ * package.json
+ * 
+ * Structure of the package.json file:
+ * - name: The name of the application
+ * - version: The current version of the application
+ * - private: Indicates if the package is private
+ * - dependencies: Lists the packages required by the application
+ * - scripts: Defines scripts to run commands like start, build, and test
+ * - eslintConfig: Configuration for ESLint
+ * - browserslist: Specifies which browsers to support in production and development
+ */
