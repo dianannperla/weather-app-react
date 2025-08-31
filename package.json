@@ -47,4 +47,5 @@
  * - browserslist: Specifies which browsers to support in production and development
  * 
  * Note: Ensure to update dependencies regularly to avoid security vulnerabilities.
+ * Also, consider following semantic versioning for better manageability of the release cycle.
  */
